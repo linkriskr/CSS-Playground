@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Fleur+De+Leah&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid grey;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: cadetblue;
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
